@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./antiquitatesita02muragoog/antiquitatesita02muragoog_0084.png"; bbox 0 0 4602 6136; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 245 1377 2149 2120">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 245 1377 2240 2120">
+     <span class='ocr_line' id='line_1_1' title="bbox 245 1377 2149 1786; baseline -0.01 -1"><span class='ocrx_word' id='word_1_1' title='bbox 245 1549 475 1786; x_wconf 78' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 593 1537 1874 1778; x_wconf 78' lang='lat' dir='ltr'><strong>IMPERATORUM·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2142 1377 2149 1396; x_wconf 60' lang='grc'>’</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 368 1921 1747 2120; baseline -0.005 -26"><span class='ocrx_word' id='word_1_4' title='bbox 368 1921 1747 2120; x_wconf 64' lang='grc' dir='ltr'><strong>ΚΟΜΑΝΟΚΠΜ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 355 2463 1773 3604">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 355 2463 1773 3604">
+     <span class='ocr_line' id='line_1_3' title="bbox 471 2463 1690 2704; baseline -0.004 1"><span class='ocrx_word' id='word_1_5' title='bbox 471 2593 474 2598; x_wconf 94' lang='grc'><strong><em>·</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 615 2507 726 2704; x_wconf 88' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_7' title='bbox 809 2507 895 2702; x_wconf 86' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_8' title='bbox 983 2509 1090 2702; x_wconf 90' lang='lat' dir='ltr'>G</span> <span class='ocrx_word' id='word_1_9' title='bbox 1175 2509 1286 2704; x_wconf 90' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_10' title='bbox 1371 2509 1506 2702; x_wconf 91' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_11' title='bbox 1686 2463 1690 2474; x_wconf 35' lang='lat'><strong><em>⁵</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 474 2855 1648 3026; baseline -0.003 -2"><span class='ocrx_word' id='word_1_12' title='bbox 474 2855 1648 3026; x_wconf 89' lang='lat' dir='ltr'><strong>ITALICORUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 699 3172 1423 3292; baseline 0.001 -3"><span class='ocrx_word' id='word_1_13' title='bbox 699 3172 1423 3292; x_wconf 73' lang='lat' dir='ltr'><strong>ELECTIONE&#39;</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 355 3459 1773 3604; baseline -0.008 0"><span class='ocrx_word' id='word_1_14' title='bbox 355 3467 1193 3604; x_wconf 68' lang='lat' dir='ltr'><strong>mssszATm</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1277 3459 1773 3603; x_wconf 74' lang='lat' dir='ltr'><strong>TERTlA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2306 6132">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2306 6132">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 2306 6132; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 2306 6132; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

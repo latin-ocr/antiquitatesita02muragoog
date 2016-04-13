@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./antiquitatesita02muragoog/antiquitatesita02muragoog_0194.png"; bbox 0 0 4628 6148; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 265 1811 2250 2550">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 265 1755 2250 2468">
+     <span class='ocr_line' id='line_1_1' title="bbox 265 1811 2250 2132; baseline 0.016 -31"><span class='ocrx_word' id='word_1_1' title='bbox 261 1840 866 2120; x_wconf 80' lang='lat' dir='ltr'><strong>CHR</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 962 1855 1096 2120; x_wconf 91' lang='lat'>0</span> <span class='ocrx_word' id='word_1_3' title='bbox 1198 1811 2074 2132; x_wconf 76' lang='lat' dir='ltr'>N101</span> <span class='ocrx_word' id='word_1_4' title='bbox 2247 1941 2250 1948; x_wconf 30' lang='lat' dir='ltr'><em>s</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 276 2266 1896 2550; baseline 0.003 -88.594"><span class='ocrx_word' id='word_1_5' title='bbox 276 2266 1688 2550; x_wconf 88' lang='lat' dir='ltr'><strong>AMALPHITANI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1891 2413 1896 2421; x_wconf 84' lang='lat'><em>-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 396 2631 2151 3302">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 396 2631 2151 3302">
+     <span class='ocr_line' id='line_1_3' title="bbox 620 2631 1522 2750; baseline 0.007 -34"><span class='ocrx_word' id='word_1_7' title='bbox 620 2631 831 2750; x_wconf 81' lang='lat' dir='ltr'>NUNQ</span> <span class='ocrx_word' id='word_1_8' title='bbox 833 2631 1522 2723; x_wconf 82' lang='lat' dir='ltr'><strong>AAAAAAAAAAAAA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 396 3107 2151 3302; baseline 0.008 -18"><span class='ocrx_word' id='word_1_9' title='bbox 396 3133 1099 3302; x_wconf 67' lang='lat' dir='ltr'><strong>AbAnnochr.cccxxx1xus</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1123 3173 1425 3296; x_wconf 66' lang='lat' dir='ltr'><strong>ueadAnnfim</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1444 3203 1728 3298; x_wconf 79' lang='lat' dir='ltr'>Nccxcw.</span> <span class='ocrx_word' id='word_1_12' title='bbox 2148 3107 2151 3114; x_wconf 23' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2318 6148">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2318 6148">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2318 6148; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 2318 6148; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
